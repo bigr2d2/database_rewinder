@@ -1,8 +1,6 @@
 # DatabaseRewinder
 
-[![Build Status](https://travis-ci.org/amatsuda/database_rewinder.svg)](http://travis-ci.org/amatsuda/database\_rewinder)
-
-database\_rewinder is a minimalist's tiny and ultra-fast database cleaner.
+database\_rewinder is a minimalist's tiny and ultra-fast database cleaner. http://www.kopasaljaguld.se/guldtackor/
 
 ## Features
 
